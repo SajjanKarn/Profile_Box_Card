@@ -27,7 +27,6 @@ body {
 .box {
   width: 400px;
   height: fit-content;
-  background-color: black;
   padding: 0 30px;
   transition: 0.5s;
   -webkit-box-shadow: 1px -1px 29px -13px rgba(0, 0, 0, 0.75);
@@ -91,16 +90,6 @@ body {
   color: black;
   font-size: 1.1rem;
   font-family: "Courgette", cursive;
-}
-
-.texts-container .link-profie {
-  margin: 20px 0;
-  padding: 15px 30px;
-  text-decoration: none;
-  background-color: #c23616;
-  color: white;
-  border-radius: 30px;
-  box-shadow: var(--main-box-shadow);
 }
 
 .box:hover {
